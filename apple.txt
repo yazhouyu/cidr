@@ -175,3 +175,4 @@ payload:
   - '+.www.apple.com'
   - '+.www.bing.com'
   - '+.cn.bing.com'
+  - '+.cm.steampowered.com'
