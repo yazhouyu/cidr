@@ -175,3 +175,4 @@ payload:
   - '+.www.apple.com'
   - '+.store.steampowered.com'
   - '+.www.akamaized.net'
+  - '+.tiktokcdn.com'
