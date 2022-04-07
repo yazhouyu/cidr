@@ -1,12 +1,15 @@
 abc.com
 youtube.com
 google.com
+google.com.hk
 twitter.com
+twimg.com
 t.me
 telegram.org
 github.com
 githubusercontent.com
 t.co
+albtls.t.co
 bbc.com
 nbc.com
 pornhub.com
@@ -14,3 +17,7 @@ xvideos.com
 facebook.com
 go.com
 un.org
+phncdn.com
+etahub.com
+gstatic.com
+googleusercontent.com
