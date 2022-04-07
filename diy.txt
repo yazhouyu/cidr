@@ -1,4 +1,3 @@
-# > CJ Marketing
 4009997658.com
 abbyychina.com
 bartender.cc
@@ -49,19 +48,9 @@ yihuifu.cn
 yuanchengxiezuo.com
 zbrushcn.com
 zhzzx.com
-
-# Global Area Network
-# (ForeignMedia)
-# (Video)
-# > Youtube
-# USER-AGENT,com.google.ios.youtube*
-# USER-AGENT,YouTube*
-# USER-AGENT,YouTubeMusic*
 googlevideo.com
 youtube.com
 youtubei.googleapis.com
-# > Netflix
-# USER-AGENT,Argo*
 netflix.com
 netflix.net
 nflxext.com
@@ -69,58 +58,33 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
-# > Pornhub
 phncdn.com
 pornhub.com
-# > Amazon Prime Video (US|JP)
-# USER-AGENT,InstantVideo.US*
-# USER-AGENT,Prime%20Video*
-# > Fox+ (HK|TW|SG)
-# USER-AGENT,FOXPlus*
 foxplus.com
 theplatform.com
 staticasiafox.akamaized.net
 dashasiafox.akamaized.net
-# > (US)
-# > HBO Now & HBO GO
-# USER-AGENT,HBO%20NOW*
 hbo.com
 hbogo.com
 hboasia.com
 hbogo.com
 hbogoasia.hk
-# > Hulu
 hulu.com
 huluim.com
 hulustream.com
-# > PBS
-# USER-AGENT,PBS*
 pbs.org
-# > Fox Now
-# USER-AGENT,FOX%20NOW*
 fox.com
 foxdcg.com
 uplynk.com
-# > (HK)
-# > myTV_SUPER
-# USER-AGENT,mytv*
 mytvsuper.com
 tvb.com
-# > encoreTVB
-# USER-AGENT,encoreTVB*
 encoretvb.com
 content.jwplatform.com
 videos-f.jwpsrv.com
-# > ViuTV
-# USER-AGENT,ViuTV*
 viu.tv
 api.viu.now.com
-# > (JP)
-# > Hulu(フールー)
 happyon.jp
 hulu.jp
-# > AbemaTV
-# USER-AGENT,AbemaTV*
 abema.io
 ameba.jp
 hayabusa.io
@@ -128,43 +92,21 @@ abematv.akamaized.net
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 linear-abematv.akamaized.net
-# > (UK)
-# > BBC iPlayer
-# USER-AGENT,BBCiPlayer*
 bbc.co.uk
 bbci.co.uk
-- DOMAIN-KEYWORD,bbcfmt
-- DOMAIN-KEYWORD,uk-live
-# > All4
-# USER-AGENT,All4*
 c4assets.com
 channel4.com
-# > (TW)
-# > Bahamut
-# USER-AGENT,Anime*
 bahamut.com.tw
 gamer.com.tw
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
-# > KKTV
-# USER-AGENT,KKTV*
-# USER-AGENT,com.kktv.ios.kktv*
 kktv.com.tw
 kktv.me
 kktv-theater.kk.stream
-# > Line TV
-# USER-AGENT,LINE%20TV*
 linetv.tw
 d3c7rimkq79yfu.cloudfront.net
-# > LiTV
 litv.tv
 litvfreemobile-hichannel.cdn.hinet.net
-
-
-
-
-# (DNS Cache Pollution Protection)
-# > Google
 appspot.com
 blogger.com
 getoutline.org
@@ -172,7 +114,6 @@ gvt0.com
 gvt1.com
 gvt3.com
 xn--ngstr-lra8j.com
-# > Facebook
 cdninstagram.com
 fb.com
 fb.me
@@ -188,8 +129,6 @@ oculuscdn.com
 rocksdb.org
 whatsapp.com
 whatsapp.net
-
-# > Twitter
 pscp.tv
 periscope.tv
 t.co
@@ -197,21 +136,15 @@ twimg.co
 twimg.com
 twitpic.com
 vine.co
-
-# > Telegram
 t.me
 tdesktop.com
 telegra.ph
 telegram.me
 telegram.org
-
-# > Line
 line.me
 line-apps.com
 line-scdn.net
 naver.jp
-
-# > Other
 4shared.com
 881903.com
 9cache.com
@@ -460,15 +393,10 @@ you-get.org
 zb.com
 zello.com
 zeronet.io
-
-
-# (Region-Restricted Access Denied)
 abc.com
-abc.net.au
 apartmentratings.com
 apartments.com
 bankmobilevibe.com
-bing.com
 booktopia.com.au
 centauro.com.br
 clearsurance.com
@@ -511,3 +439,5 @@ vk.com
 vsco.co
 xfinity.com
 zattoo.com
+github.com
+githubusercontent.com
