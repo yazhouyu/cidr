@@ -1,0 +1,513 @@
+# > CJ Marketing
+4009997658.com
+abbyychina.com
+bartender.cc
+betterzip.net
+beyondcompare.cc
+bingdianhuanyuan.cn
+chemdraw.com.cn
+cjmakeding.com
+cjmkt.com
+codesoftchina.com
+coreldrawchina.com
+crossoverchina.com
+easyrecoverychina.com
+ediuschina.com
+flstudiochina.com
+formysql.com
+guitarpro.cc
+huishenghuiying.com.cn
+hypersnap.net
+iconworkshop.cn
+imindmap.cc
+jihehuaban.com.cn
+keyshot.cc
+kingdeecn.cn
+logoshejishi.com
+mairuan.cn
+mairuan.com
+mairuan.com.cn
+mairuan.net
+mairuanwang.com
+makeding.com
+mathtype.cn
+mindmanager.cc
+mindmapper.cc
+mycleanmymac.com
+nicelabel.cc
+ntfsformac.cc
+ntfsformac.cn
+overturechina.com
+passwordrecovery.cn
+pdfexpert.cc
+shankejingling.com
+ultraiso.net
+vegaschina.cn
+xmindchina.net
+xshellcn.com
+yihuifu.cn
+yuanchengxiezuo.com
+zbrushcn.com
+zhzzx.com
+
+# Global Area Network
+# (ForeignMedia)
+# (Video)
+# > Youtube
+# USER-AGENT,com.google.ios.youtube*
+# USER-AGENT,YouTube*
+# USER-AGENT,YouTubeMusic*
+googlevideo.com
+youtube.com
+youtubei.googleapis.com
+# > Netflix
+# USER-AGENT,Argo*
+netflix.com
+netflix.net
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+# > Pornhub
+phncdn.com
+pornhub.com
+# > Amazon Prime Video (US|JP)
+# USER-AGENT,InstantVideo.US*
+# USER-AGENT,Prime%20Video*
+# > Fox+ (HK|TW|SG)
+# USER-AGENT,FOXPlus*
+foxplus.com
+theplatform.com
+staticasiafox.akamaized.net
+dashasiafox.akamaized.net
+# > (US)
+# > HBO Now & HBO GO
+# USER-AGENT,HBO%20NOW*
+hbo.com
+hbogo.com
+hboasia.com
+hbogo.com
+hbogoasia.hk
+# > Hulu
+hulu.com
+huluim.com
+hulustream.com
+# > PBS
+# USER-AGENT,PBS*
+pbs.org
+# > Fox Now
+# USER-AGENT,FOX%20NOW*
+fox.com
+foxdcg.com
+uplynk.com
+# > (HK)
+# > myTV_SUPER
+# USER-AGENT,mytv*
+mytvsuper.com
+tvb.com
+# > encoreTVB
+# USER-AGENT,encoreTVB*
+encoretvb.com
+content.jwplatform.com
+videos-f.jwpsrv.com
+# > ViuTV
+# USER-AGENT,ViuTV*
+viu.tv
+api.viu.now.com
+# > (JP)
+# > Hulu(フールー)
+happyon.jp
+hulu.jp
+# > AbemaTV
+# USER-AGENT,AbemaTV*
+abema.io
+ameba.jp
+hayabusa.io
+abematv.akamaized.net
+ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
+linear-abematv.akamaized.net
+# > (UK)
+# > BBC iPlayer
+# USER-AGENT,BBCiPlayer*
+bbc.co.uk
+bbci.co.uk
+- DOMAIN-KEYWORD,bbcfmt
+- DOMAIN-KEYWORD,uk-live
+# > All4
+# USER-AGENT,All4*
+c4assets.com
+channel4.com
+# > (TW)
+# > Bahamut
+# USER-AGENT,Anime*
+bahamut.com.tw
+gamer.com.tw
+gamer-cds.cdn.hinet.net
+gamer2-cds.cdn.hinet.net
+# > KKTV
+# USER-AGENT,KKTV*
+# USER-AGENT,com.kktv.ios.kktv*
+kktv.com.tw
+kktv.me
+kktv-theater.kk.stream
+# > Line TV
+# USER-AGENT,LINE%20TV*
+linetv.tw
+d3c7rimkq79yfu.cloudfront.net
+# > LiTV
+litv.tv
+litvfreemobile-hichannel.cdn.hinet.net
+
+
+
+
+# (DNS Cache Pollution Protection)
+# > Google
+appspot.com
+blogger.com
+getoutline.org
+gvt0.com
+gvt1.com
+gvt3.com
+xn--ngstr-lra8j.com
+# > Facebook
+cdninstagram.com
+fb.com
+fb.me
+fbaddins.com
+fbcdn.net
+fbsbx.com
+fbworkmail.com
+instagram.com
+m.me
+messenger.com
+oculus.com
+oculuscdn.com
+rocksdb.org
+whatsapp.com
+whatsapp.net
+
+# > Twitter
+pscp.tv
+periscope.tv
+t.co
+twimg.co
+twimg.com
+twitpic.com
+vine.co
+
+# > Telegram
+t.me
+tdesktop.com
+telegra.ph
+telegram.me
+telegram.org
+
+# > Line
+line.me
+line-apps.com
+line-scdn.net
+naver.jp
+
+# > Other
+4shared.com
+881903.com
+9cache.com
+9gag.com
+abc.net.au
+abebooks.com
+amazon.co.jp
+apigee.com
+apk-dl.com
+apkmirror.com
+apkmonk.com
+apkpure.com
+aptoide.com
+archive.is
+archive.org
+arte.tv
+artstation.com
+ask.com
+avgle.com
+badoo.com
+bandwagonhost.com
+bbc.com
+behance.net
+bibox.com
+biggo.com.tw
+binance.com
+bitcointalk.org
+bitfinex.com
+bitmex.com
+bit-z.com
+bloglovin.com
+bloomberg.cn
+bloomberg.com
+book.com.tw
+booklive.jp
+books.com.tw
+box.com
+brookings.edu
+businessinsider.com
+bwh1.net
+castbox.fm
+cbc.ca
+cdw.com
+change.org
+ck101.com
+clarionproject.org
+clyp.it
+cna.com.tw
+comparitech.com
+conoha.jp
+crucial.com
+cts.com.tw
+cw.com.tw
+cyberctm.com
+dailymotion.com
+dailyview.tw
+daum.net
+daumcdn.net
+dcard.tw
+deepdiscount.com
+deezer.com
+depositphotos.com
+deviantart.com
+disconnect.me
+discordapp.com
+discordapp.net
+disqus.com
+dns2go.com
+dropbox.com
+dropboxusercontent.com
+duckduckgo.com
+dw.com
+dynu.com
+earthcam.com
+ebookservice.tw
+economist.com
+edgecastcdn.net
+edu
+elpais.com
+enanyang.my
+esoir.be
+euronews.com
+feedly.com
+files.wordpress.com
+flickr.com
+flitto.com
+foreignpolicy.com
+friday.tw
+gate.io
+getlantern.org
+getsync.com
+globalvoices.org
+goo.ne.jp
+goodreads.com
+gov
+gov.tw
+gumroad.com
+hbg.com
+hightail.com
+hk01.com
+hkbf.org
+hkbookcity.com
+hkej.com
+hket.com
+hkgolden.com
+hootsuite.com
+hudson.org
+hyread.com.tw
+ibtimes.com
+i-cable.com
+icij.org
+icoco.com
+id.heroku.com
+imgur.com
+initiummall.com
+insecam.org
+ipfs.io
+issuu.com
+istockphoto.com
+japantimes.co.jp
+jiji.com
+jinx.com
+jkforum.net
+joinmastodon.org
+justpaste.it
+kakao.com
+kakaocorp.com
+kik.com
+kobo.com
+kobobooks.com
+kodingen.com
+lemonde.fr
+lepoint.fr
+lihkg.com
+live.com
+livestream.com
+logmein.com
+mail.ru
+mailchimp.com
+marc.info
+matters.news
+medium.com
+mega.nz
+mil
+mingpao.com
+mobile01.com
+myspace.com
+myspacecdn.com
+nanyang.com
+naver.com
+newstapa.org
+nicovideo.jp
+nikkei.com
+nofile.io
+now.com
+nrk.no
+nyt.com
+nytchina.com
+nytcn.me
+nytco.com
+nytimes.com
+nytimg.com
+nytlog.com
+nytstyle.com
+ok.ru
+okex.com
+orientaldaily.com.my
+paltalk.com
+pbxes.com
+pcdvd.com.tw
+pchome.com.tw
+pcloud.com
+pinimg.com
+pixiv.net
+player.fm
+plurk.com
+prism-break.org
+proxifier.com
+pts.org.tw
+pubu.com.tw
+pubu.tw
+pureapk.com
+quora.com
+quoracdn.net
+rakuten.co.jp
+readingtimes.com.tw
+readmoo.com
+reddit.com
+redditmedia.com
+resilio.com
+reuters.com
+rfi.fr
+roadshow.hk
+scmp.com
+scribd.com
+seatguru.com
+shadowsocks.org
+slideshare.net
+softfamous.com
+soundcloud.com
+startpage.com
+steamcommunity.com
+steemit.com
+t66y.com
+tapatalk.com
+teco-hk.org
+teco-mo.org
+teddysun.com
+theinitium.com
+tineye.com
+torproject.org
+tumblr.com
+turbobit.net
+tutanota.com
+tvboxnow.com
+twitch.tv
+udn.com
+unseen.is
+upmedia.mg
+uptodown.com
+ustream.tv
+uwants.com
+v2ray.com
+viber.com
+videopress.com
+vimeo.com
+voxer.com
+vzw.com
+w3schools.com
+wattpad.com
+whoer.net
+wikimapia.org
+wikipedia.org
+wire.com
+workflow.is
+worldcat.org
+wsj.com
+wsj.net
+xboxlive.com
+xvideos.com
+yahoo.com
+yesasia.com
+yes-news.com
+yomiuri.co.jp
+you-get.org
+zb.com
+zello.com
+zeronet.io
+
+
+# (Region-Restricted Access Denied)
+abc.com
+abc.net.au
+apartmentratings.com
+apartments.com
+bankmobilevibe.com
+bing.com
+booktopia.com.au
+centauro.com.br
+clearsurance.com
+costco.com
+crackle.com
+depositphotos.cn
+dish.com
+dmm.co.jp
+dmm.com
+dnvod.tv
+esurance.com
+extmatrix.com
+fastpic.ru
+flipboard.com
+fnac.be
+fnac.com
+funkyimg.com
+fxnetworks.com
+gettyimages.com
+go.com
+here.com
+jcpenney.com
+jiehua.tv
+kknews.cc
+nationwide.com
+nbc.com
+nexon.com
+nordstrom.com
+nordstromimage.com
+nordstromrack.com
+read01.com
+superpages.com
+target.com
+thinkgeek.com
+tracfone.com
+uploader.jp
+vevo.com
+viu.tv
+vk.com
+vsco.co
+xfinity.com
+zattoo.com
