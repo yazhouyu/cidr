@@ -81,32 +81,59 @@ Proxy:
 # 加密算法推荐：AEAD_AES_128_GCM AEAD_AES_192_GCM AEAD_AES_256_GCM AEAD_CHACHA20_POLY1305
 - { name: "1", type: ss, server: 1.2.4.8, port: 443, cipher: AEAD_CHACHA20_POLY1305, password: "password" }
 # Shadowsocks + OBFS
-- name: "2"
-  type: ss
-  server: 1.2.4.8
-  port: 443
-  cipher: AEAD_CHACHA20_POLY1305
-  password: "password"
-  plugin: obfs
-  plugin-opts:
-    mode: tls # or http
-    host: yunjiasu-cdn.net
+- name: "1"
+  type: ssr
+  server: iplc-shen.mielink-dns.com
+  port: 668
+  cipher: rc4-md5
+  password: miejump.com
+  protocol: auth_aes128_md5
+  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  obfs: http_simple
+  obfsparam: ajax.microsoft.com
+  obfs-param: ajax.microsoft.com
+  udp: true
 # Shadowsocks + v2ray-plugin
+- name: "2"
+  type: ssr
+  server: iplc-ji.mielink-dns.com
+  port: 667
+  cipher: rc4-md5
+  password: miejump.com
+  protocol: auth_aes128_md5
+  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  obfs: http_simple
+  obfsparam: ajax.microsoft.com
+  obfs-param: ajax.microsoft.com
+  udp: true
 - name: "3"
-  type: ss
-  server: 1.2.4.8
-  port: 443
-  cipher: AEAD_CHACHA20_POLY1305
-  password: "password"
-  plugin: obfs
-  plugin-opts:
-    mode: websocket # no QUIC now
-    # tls: true # wss
-    # skip-cert-verify: true
-    # host: bing.com
-    # path: "/"
-    # headers:
-    #   custom: value
+  type: ssr
+  server: iplc-hu.mielink-dns.com
+  port: 664
+  cipher: rc4-md5
+  password: miejump.com
+  protocol: auth_aes128_md5
+  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  obfs: http_simple
+  obfsparam: ajax.microsoft.com
+  obfs-param: ajax.microsoft.com
+  udp: true
+- name: "4"
+  type: ssr
+  server: iplc-zhe.mielink-dns.com
+  port: 669
+  cipher: rc4-md5
+  password: miejump.com
+  protocol: auth_aes128_md5
+  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  obfs: http_simple
+  obfsparam: ajax.microsoft.com
+  obfs-param: ajax.microsoft.com
+  udp: true
 # V2Ray(WSS)
 - { name: "4", type: vmess, server: v2ray.cool, port: 443, uuid: a3482e88-686a-4a58-8126-99c9df64b7bf, alterId: 32, cipher: auto, network: ws, ws-path: /v2ray.cool/, tls: true }
 
