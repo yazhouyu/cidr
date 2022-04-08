@@ -25,4 +25,4 @@ etahub.com
 gstatic.com
 googleusercontent.com
 steamcommunity.com
-store.steam.com
+steam.com
