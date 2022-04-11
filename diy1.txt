@@ -36,3 +36,5 @@ googleusercontent.com
 steamcommunity.com
 steam.com
 steampowered.com
+@@||akamai.com
+@@||update.cdn-apple.com
