@@ -2,7 +2,6 @@ abc.com
 youtube.com
 youtu.be
 google.com
-google.com.hk
 t.me
 telegram.org
 telegram.me
@@ -14,7 +13,6 @@ tweetdeck.com
 twitter.com
 twimg.com
 twitpic.com
-albtls.t.co
 bbc.com
 nbc.com
 pornhub.com
@@ -23,14 +21,7 @@ facebook.com
 fbcdn.net
 fbsbx.com
 instagram.com
-go.com
-un.org
-phncdn.com
-etahub.com
-gstatic.com
-googleusercontent.com
 steamcommunity.com
 steam.com
 steampowered.com
-@@||akamai.com
-@@||update.cdn-apple.com
+
