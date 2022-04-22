@@ -914,8 +914,8 @@ rules:
 - DOMAIN-SUFFIX,githubusercontent.com,国外流量
 #steam
 - DOMAIN-SUFFIX,steamcommunity.com,国外流量
-- DOMAIN-SUFFIX,steampowered.com,DIRECT
-- DOMAIN-SUFFIX,steam-chat.com,DIRECT
+- DOMAIN-SUFFIX,steampowered.com,国外流量
+- DOMAIN-SUFFIX,steam-chat.com,国外流量
 - DOMAIN-SUFFIX,steamgames.com,DIRECT
 - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
 - DOMAIN-SUFFIX,steamcontent.com,DIRECT
@@ -925,7 +925,7 @@ rules:
 
 
 
-
+#apple
 - "DOMAIN-SUFFIX,aaplimg.com,DIRECT"
 - "DOMAIN-SUFFIX,apple.co,DIRECT"
 - "DOMAIN-SUFFIX,apple.com,DIRECT"
@@ -942,6 +942,8 @@ rules:
 - "DOMAIN-SUFFIX,update.cdn-apple.com,DIRECT"
 - "IP-CIDR,17.0.0.0/8,DIRECT"
 
+
+#DIY
 - "DOMAIN-SUFFIX,adobe.com,DIRECT"
 - "DOMAIN-SUFFIX,adobe.io,DIRECT"
 - "DOMAIN-SUFFIX,aaplimg.com,DIRECT"
@@ -950,6 +952,8 @@ rules:
 - "DOMAIN-SUFFIX,mocrosoft.com,DIRECT"
 - "DOMAIN-SUFFIX,bing.com,DIRECT"
 - "DOMAIN-KEYWORD,microsoft,DIRECT"
+- "DOMAIN-KEYWORD,macwk,DIRECT"
+
 
 - IP-CIDR,192.168.0.0/16,DIRECT
 - IP-CIDR,10.0.0.0/8,DIRECT
