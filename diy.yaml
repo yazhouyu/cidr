@@ -126,8 +126,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -139,8 +139,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -152,8 +152,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -165,8 +165,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -178,8 +178,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -191,8 +191,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -204,8 +204,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -217,8 +217,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -230,8 +230,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -243,8 +243,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -256,8 +256,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -269,8 +269,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -282,8 +282,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -295,8 +295,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -308,8 +308,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -321,8 +321,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -334,8 +334,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -347,8 +347,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -360,8 +360,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -373,8 +373,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -386,8 +386,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -399,8 +399,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -412,8 +412,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -425,8 +425,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -438,8 +438,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -451,8 +451,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -464,8 +464,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -477,8 +477,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -490,8 +490,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -503,8 +503,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -516,8 +516,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -529,8 +529,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -542,8 +542,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -555,8 +555,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -568,8 +568,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -581,8 +581,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -594,8 +594,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -607,8 +607,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -620,8 +620,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -633,8 +633,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -646,8 +646,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -659,8 +659,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -672,8 +672,8 @@ proxies:
   cipher: rc4-md5
   password: miejump.com
   protocol: auth_aes128_md5
-  protocolparam: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
-  protocol-param: 81755:d8337d66-cba2-3f16-83fe-b1c996f55a71
+  protocolparam: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
+  protocol-param: 81755:56873eaa-dcd1-3f65-8984-4e208f3e8844
   obfs: http_simple
   obfsparam: ajax.microsoft.com
   obfs-param: ajax.microsoft.com
@@ -909,6 +909,7 @@ rules:
 - DOMAIN-SUFFIX,youtu.be,国外流量
 - DOMAIN-SUFFIX,yt.be,国外流量
 - DOMAIN-SUFFIX,ytimg.com,国外流量
+- DOMAIN-KEYWORD,youtube,国外流量
 #github
 - DOMAIN-KEYWORD,github,国外流量
 - DOMAIN-SUFFIX,githubusercontent.com,国外流量
@@ -940,6 +941,7 @@ rules:
 - "DOMAIN-SUFFIX,akamaiedge.net,DIRECT"
 - "DOMAIN-SUFFIX,akamai.com,DIRECT"
 - "DOMAIN-SUFFIX,update.cdn-apple.com,DIRECT"
+- "DOMAIN-KEYWORD,apple,DIRECT"
 - "IP-CIDR,17.0.0.0/8,DIRECT"
 
 
@@ -952,7 +954,19 @@ rules:
 - "DOMAIN-SUFFIX,mocrosoft.com,DIRECT"
 - "DOMAIN-SUFFIX,bing.com,DIRECT"
 - "DOMAIN-KEYWORD,microsoft,DIRECT"
+- "DOMAIN-KEYWORD,msn,DIRECT"
+- "DOMAIN-KEYWORD,azure,DIRECT"
+- "DOMAIN-KEYWORD,azureedge,DIRECT"
 - "DOMAIN-KEYWORD,macwk,DIRECT"
+- "DOMAIN-KEYWORD,akadns,DIRECT"
+- "DOMAIN-SUFFIX,typekit.com,DIRECT"
+- DOMAIN-KEYWORD,t66y,国外流量
+
+
+#IP
+- "DOMAIN-SUFFIX,skk.moe,DIRECT"
+- "DOMAIN-SUFFIX,ip.sb,DIRECT"
+
 
 
 - IP-CIDR,192.168.0.0/16,DIRECT
